@@ -2,3 +2,4 @@ This is a intership based project by CodeClause pvt limited.
 It is a simple basic text editor that have the read and write function by open and save file 
 method in it. 
 We can enhance it to the next level in future.....
+You should add more menu baar like edit the text file 
